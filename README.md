@@ -1,2 +1,2 @@
 - 👋 Olá, Sou o @ArthReiis
-- 🌱 Estou atualmente aprendendo lógica de programação e Java
+- 🌱 Estou atualmente aprendendo lógica de programação, html, css e javascript
